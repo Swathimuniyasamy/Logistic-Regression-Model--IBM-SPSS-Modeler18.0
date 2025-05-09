@@ -17,7 +17,7 @@ This project contains a logistic regression model built using **IBM SPSS Modeler
 
 | File Name     | Description                                  |
 |---------------|----------------------------------------------|
-| `exp10.str`   | SPSS Modeler stream file for logistic regression |
+| Logistic Regression | SPSS Modeler stream file for logistic regression |
 
 ---
 
